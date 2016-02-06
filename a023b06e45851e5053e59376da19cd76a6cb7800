@@ -1,0 +1,9 @@
+Import what? whatwg/html!
+
+Fork point appears to be Jan 13, 2016:
+https://github.com/whatwg/html/commit/8558f93f86a8a910fa23d961e271e7333e16170e
+
+(Determined by bisect and manual inspection, not documented.)
+
+Differences to https://github.com/whatwg/html and
+https://github.com/w3c/html-old are undocumented.
